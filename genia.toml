@@ -1,0 +1,3 @@
+name = "patternfall"
+version = "0.1.0"
+entry = "src/patternfall/main.genia"

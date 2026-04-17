@@ -1,2 +1,3 @@
-# patternfall
-Rogue-like in Genia
+# Patternfall
+
+A roguelike written in Genia.
